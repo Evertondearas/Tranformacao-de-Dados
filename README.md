@@ -1,4 +1,4 @@
-# Transformação de Dados — Teste 2
+# Transformação de Dados 
 
 Este projeto foi feito para automatizar a extração e transformação dos dados da tabela "Rol de Procedimentos e Eventos em Saúde" contida no PDF do Anexo I da ANS. A ideia é pegar todas as páginas do documento, organizar os dados em formato CSV e gerar um `.zip` com o resultado.
 
